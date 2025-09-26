@@ -2,7 +2,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: SDE_REPOLIST.urll
 //// A list of all SDE project repositories by @seanpm2001
-//// As of 2025, Wednesday, September 17th
+//// As of 2025, Thursday, September 25th
 
 //// Subprojects of SDE
 
@@ -13,6 +13,7 @@
 //// iCandy
 //// SDE Gyroscope
 //// Slick License Manager
+//// Skeuowie
 
 //// SDE Main (1)
 
@@ -206,9 +207,19 @@ https://github.com/seanpm2001/Slick-LM
 
 https://github.com/seanpm2001/ARCHIVE_Slick-license-manager.github.io
 
+//// Skeuowie/Skeowie
+
+//// //// Skeuowie home repository (1)
+
+https://github.com/seanpm2001/Skeuwie_
+
+//// //// Skeuowie core documentation repository (1)
+
+https://github.com/seanpm2001/Skeuwie_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (SDE): 86
-//// 1+1+1+1+2+2+2+2+2+2+2+2+2+2+2+4+12+28+1+1+1+2+2+2+2+2+1+1+1=86
+//// Repo count (SDE): 88
+//// 1+1+1+1+2+2+2+2+2+2+2+2+2+2+2+4+12+28+1+1+1+2+2+2+2+2+1+1+1+1+1=88
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -217,18 +228,18 @@ https://github.com/seanpm2001/ARCHIVE_Slick-license-manager.github.io
 //// Nothing to list
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 86
-//// 86+0=86
+//// Repo count (See also): 88
+//// 88+0=88
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 86
-//// 86+0=86
+//// Total repo count: 88
+//// 88+0=88
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Wednesday, September 17th at 05:41 pm PST)
-//// Line count (including blank lines and compiler line): 235
+//// File version: 2 (2025, Thursday, September 25th at 07:32 pm PST)
+//// Line count (including blank lines and compiler line): 246
 //// ----------------------------------------------------- \\\\
 
 //// End of file
