@@ -1,0 +1,261 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: SDE_REPOLIST.urll
+//// A list of all SDE project repositories by @seanpm2001
+//// As of 2025, Monday, October 20th
+
+//// Subprojects of SDE
+
+//// SDE
+//// SDE Merry
+//// SDE MobileServer
+//// Coloress
+//// iCandy
+//// SDE Gyroscope
+//// Slick License Manager
+//// Skeuowie
+
+//// SDE Main (1)
+
+https://github.com/seanpm2001/SDE
+
+//// SDE Core documentation (1)
+
+https://github.com/seanpm2001/SDE_Docs
+
+//// SDE Merry
+
+//// //// SDE Merry Main (1)
+
+https://github.com/seanpm2001/SDE_Merry
+
+//// //// SDE Merry Documentation Main (1)
+
+https://github.com/seanpm2001/SDE_Merry_Docs
+
+//// SDE Merry Website (1)
+
+https://github.com/seanpm2001/SDE_Merry_Website
+
+//// //// Carousels
+
+//// //// //// SDE ADroid Carousel (2)
+
+https://github.com/seanpm2001/SDE_ADroidCarousel
+https://github.com/seanpm2001/SDE_ADroidCarousel_Docs
+
+//// //// //// SDE CCarousel (2)
+
+https://github.com/seanpm2001/SDE_CCarousel
+https://github.com/seanpm2001/SDE_CCarousel_Docs
+
+//// //// //// SDE Darousel (2)
+
+https://github.com/seanpm2001/SDE_Darousel
+https://github.com/seanpm2001/SDE_Darousel_Docs
+
+//// //// //// SDE DNet Carousel (2)
+
+https://github.com/seanpm2001/SDE_DNetCarousel
+https://github.com/seanpm2001/SDE_DNetCarousel_Docs
+
+//// //// //// SDE iCarousel (2)
+
+https://github.com/seanpm2001/SDE_iCarousel
+https://github.com/seanpm2001/SDE_iCarousel_Docs
+
+//// //// //// SDE Karousel (2)
+
+https://github.com/seanpm2001/SDE_Karousel
+https://github.com/seanpm2001/SDE_Karousel_Docs
+
+//// //// //// SDE Parousel (2)
+
+https://github.com/seanpm2001/SDE_Parousel
+https://github.com/seanpm2001/SDE_Parousel_Docs
+
+//// //// //// SDE PyCarousel (2)
+
+https://github.com/seanpm2001/SDE_PyCarousel
+https://github.com/seanpm2001/SDE_PyCarousel_Docs
+
+//// //// //// SDE Scarousel (2)
+
+https://github.com/seanpm2001/SDE_Scarousel
+https://github.com/seanpm2001/SDE_Scarousel_Docs
+
+//// //// //// SDE WebCarousel (2)
+
+https://github.com/seanpm2001/SDE_WebCarousel
+https://github.com/seanpm2001/SDE_WebCarousel_Docs
+
+//// SDE MobileServer
+
+//// //// SDE MobileServer Main (2)
+
+https://github.com/seanpm2001/SDE_MobileServer
+https://github.com/seanpm2001/SDE_MobileServer_Docs
+
+//// //// SDE MobileServer Core (4)
+
+https://github.com/seanpm2001/SDE_MobileServer_Imager
+https://github.com/seanpm2001/SDE_MobileServer_Imager_Docs
+https://github.com/seanpm2001/SDE_MobileServer_TestZone
+https://github.com/seanpm2001/SDE_MobileServer_TestZone_Docs
+
+//// //// SDE MobileServer OSPorts (12)
+
+https://github.com/seanpm2001/SDE_MobileServer_Android
+https://github.com/seanpm2001/SDE_MobileServer_Android_Docs
+https://github.com/seanpm2001/SDE_MobileServer_FireOS
+https://github.com/seanpm2001/SDE_MobileServer_FireOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_iPadOS
+https://github.com/seanpm2001/SDE_MobileServer_iPadOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_iOS
+https://github.com/seanpm2001/SDE_MobileServer_iOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Ubuntu
+https://github.com/seanpm2001/SDE_MobileServer_Ubuntu_Docs
+https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS
+https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS_Docs
+
+//// //// SDE MobileServer Plugins (28)
+
+https://github.com/seanpm2001/SDE_MobileServer_PluginManager
+https://github.com/seanpm2001/SDE_MobileServer_PluginManager_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_XMPP
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SMPP_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_mdBook_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap_Docs
+
+//// SDE Coloress
+
+//// //// SDE Coloress Main (1)
+
+https://github.com/seanpm2001/Coloress
+
+//// //// SDE Coloress core documentation (1)
+
+https://github.com/seanpm2001/Coloress_Docs
+
+//// SDE iCandy
+
+//// //// iCandy Main (1)
+
+https://github.com/seanpm2001/iCandy
+
+//// //// iCandy documentation main (1)
+
+https://github.com/seanpm2001/iCandy_Docs
+
+//// iCandy Website (1)
+
+https://github.com/seanpm2001/iCandy_Website
+
+//// //// iCandy Desktop (2)
+
+https://github.com/seanpm2001/iCandy_Desktop
+https://github.com/seanpm2001/iCandy_Desktop_Docs
+
+//// //// iCandy Mobile (2)
+
+https://github.com/seanpm2001/iCandy_Mobile
+https://github.com/seanpm2001/iCandy_Mobile_Docs
+
+//// //// iCandy Tablet (2)
+
+https://github.com/seanpm2001/iCandy_Tablet
+https://github.com/seanpm2001/iCandy_Tablet_Docs
+
+//// //// iCandy TV (2)
+
+https://github.com/seanpm2001/iCandy_TV
+https://github.com/seanpm2001/iCandy_TV_Docs
+
+//// //// iCandy Wrist (2)
+
+https://github.com/seanpm2001/iCandy_Wrist
+https://github.com/seanpm2001/iCandy_Wrist_Docs
+
+//// //// iCandy Pod (2)
+
+https://github.com/seanpm2001/iCandy_Pod
+https://github.com/seanpm2001/iCandy_Pod_Docs
+
+//// SDE Gyroscope
+
+//// //// SDE Gyroscope Main (1)
+
+https://github.com/seanpm2001/SDE_Gyroscope
+
+//// SDE Slick LM (Slick License Manager)
+
+//// //// SDE Slick LM (Slick License Manager) Main (1)
+
+https://github.com/seanpm2001/Slick-LM
+
+//// //// SDE Slick LM (Slick License Manager) Core documentation (1)
+
+https://github.com/seanpm2001/Slick-LM_docs
+
+//// //// SDE Slick License Manager GitHub Pages website archive (1)
+
+https://github.com/seanpm2001/ARCHIVE_Slick-license-manager.github.io
+
+//// Skeuowie/Skeowie
+
+//// //// Skeuowie home repository (1)
+
+https://github.com/seanpm2001/Skeuwie_
+
+//// //// Skeuowie core documentation repository (1)
+
+https://github.com/seanpm2001/Skeuwie_Docs
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (SDE): 90
+//// 1+1+1+1+1+2+2+2+2+2+2+2+2+2+2+2+4+12+28+1+1+1+1+1+2+2+2+2+2+1+1+1+1+1+1=90
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// See also (0)
+
+//// Nothing to list
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 90
+//// 90+0=90
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 90
+//// 90+0=90
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 4 (2025, Monday, October 20th at 07:04 pm PST)
+//// Line count (including blank lines and compiler line): 262
+//// ----------------------------------------------------- \\\\
+
+//// End of file
